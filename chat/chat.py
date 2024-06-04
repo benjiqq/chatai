@@ -28,18 +28,10 @@ def queryai(msg):
     reply1 = ''
     for ck in cc:
         reply1 += (ck.choices[0].delta.content or "")
-    print(reply1)
+    print('reply ', reply1)
     with open('reply.txt','w') as f:
         f.write(reply1)
 
-    # print(type(queryresult))
-    # print(dir(queryresult))
-    # print(queryresult.response)
-    # import pdb; pdb.set_trace()
-    # qr = (zz.choices[0].delta.content or "" for zz in queryresult)
-    # print(qr)
-    # for z in cc.choices:
-    #     print(z)
 
 print('query chatgpt')
 msg = input()

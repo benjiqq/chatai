@@ -3,6 +3,8 @@
 chatgpt API with python
 
 
-```poetry run python chat/chat.py
+```
+poetry run python chat/chat.py
 hello
-Hello! How can I assist you today?```
+Hello! How can I assist you today?
+```
