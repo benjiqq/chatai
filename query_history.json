@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": "2024-07-01 00:38:46",
+        "query": "what day is it",
+        "response": "As an AI, I don't have real-time capabilities and cannot provide the current date. Please check the device you are using for this information."
+    },
+    {
+        "timestamp": "2024-07-01 00:38:53",
+        "query": "what year is it",
+        "response": "As an AI, I don't have real-time data. However, today's date would be based on the current year you are in."
+    }
+]

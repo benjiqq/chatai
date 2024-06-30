@@ -1,10 +1,10 @@
 # chatai
 
-chatgpt API with python
-
+chatgpt UI
 
 ```
-poetry run python chat/chat.py
-hello
-Hello! How can I assist you today?
+poetry run python chat/chatui.py
 ```
+
+[![chatgpt UI](ui.jpeg)](ui.jpeg)
+
