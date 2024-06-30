@@ -1,9 +1,0 @@
-This line of code is used to establish a connection to a database using SQLAlchemy, a SQL toolkit and Object-Relational Mapping (ORM) system for Python.
-
-The `create_engine` function is used to create an engine object, which serves as a source of database connectivity and behavior. 
-
-The `db_url` parameter represents the database URL to connect to the database. This URL typically includes the type of database (such as postgresql, mysql, etc.), the username and password to connect to the database, and the hostname and database name. 
-
-For example, a `db_url` for a PostgreSQL database might look like this: 'postgresql://user:password@localhost/mydatabase'.
-
-This engine can then be used to interact with the database, such as executing SQL statements or fetching data.

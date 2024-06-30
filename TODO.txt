@@ -1,6 +1,7 @@
-* temprate setting
-* model select
-* save to file
+X temprate setting
+X model select
+* save convo to file
+* conversation flow
 * bookmark
 * previous chats
 
