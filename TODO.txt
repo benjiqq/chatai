@@ -1,0 +1,6 @@
+* temprate setting
+* model select
+* save to file
+* bookmark
+* previous chats
+

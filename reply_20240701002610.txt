@@ -1,0 +1,1 @@
+I am based on OpenAI's GPT-4 model, a state-of-the-art language model designed to assist with a wide range of tasks, including answering questions, providing explanations, and generating text based on the prompts I receive. How can I assist you today?

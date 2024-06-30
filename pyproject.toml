@@ -11,6 +11,8 @@ requests = "^2.32.3"
 openai = "^1.31.0"
 black = "^24.4.2"
 toml = "^0.10.2"
+pyside6 = {version = "^6.7.2", python = ">=3.12,<3.13"}
+
 
 
 [build-system]
